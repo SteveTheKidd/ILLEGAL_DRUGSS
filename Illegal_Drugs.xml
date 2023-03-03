@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<Illegal_Drugs>
 
+<Illegal_Drugs>
     <Drugs name = "Methamphetamines">
         <Drugs_type>Stimulant</Drugs_type>
             <Definiton> Methamphetamine is a powerful, highly addictive stimulant that affects the central nervous system.</Definiton>
@@ -34,129 +34,128 @@
     <Drugs name = "Mushrooms">
         <Drugs_type>psilocybin and hallucinogen</Drugs_type>
             <Definiton>Psilocybin and peyote mushrooms are eaten, brewed in a tea, or added to foods to get a high.</Definiton>
-                <sentences>20years</sentences>
                 <Method>
                     <Method-1>Incorporate it into food</Method-1>
                     <Method-2>Brew it into tea</Method-2>
                 </Method>
-                    <Other_terms>
-                        <terms-1>Boomers</terms-1>
-                        <terms-2>Shrooms</terms-2>
-                        <terms-3>Little Smoke</terms-3>
-                        <terms-4>magic mushrooms</terms-4>
-                        <terms-5>psychedelic mushrooms</terms-5>
-                    </Other_terms>
-                    <Effects>
-                        <Effects-1>Panic</Effects-1>
-                        <Effects-2>Depression</Effects-2>
-                        <Effects-3>Paranoia</Effects-3>
-                        <Effects-4>Anxiety</Effects-4>
-                        <Effects-4>Tension</Effects-4>
-                        <Effects-4>Restlessness</Effects-4>
-                        <Effects-4>Thinking problems</Effects-4>
-                    </Effects>
+                <sentences>20years</sentences>
+                <Other_terms>
+                    <terms-1>Boomers</terms-1>
+                    <terms-2>Shrooms</terms-2>
+                    <terms-3>Little Smoke</terms-3>
+                    <terms-4>magic mushrooms</terms-4>
+                    <terms-5>psychedelic mushrooms</terms-5>
+                </Other_terms>
+                <Effects>
+                    <Effects-1>Panic</Effects-1>
+                    <Effects-2>Depression</Effects-2>
+                    <Effects-3>Paranoia</Effects-3>
+                    <Effects-4>Anxiety</Effects-4>
+                    <Effects-4>Tension</Effects-4>
+                    <Effects-4>Restlessness</Effects-4>
+                    <Effects-4>Thinking problems</Effects-4>
+                </Effects>
     </Drugs>
 
     <Drugs name = "Marijuana">
         <Drugs_type>stimulant, depressant, and even a hallucinogen</Drugs_type>
             <Definiton>It's still the most-used illegal drug in the U.S., despite it recently earning legal status for medical purposes in many states.</Definiton>
                 <Method>
-                        <Method-1>Smoking</Method-1>
-                        <Method-2>Vaping</Method-2>
-                        <Method-3>Sprays</Method-3>
-                        <Method-4>Topical Methods</Method-4>
+                    <Method-1>Smoking</Method-1>
+                    <Method-2>Vaping</Method-2>
+                    <Method-3>Sprays</Method-3>
+                    <Method-4>Topical Methods</Method-4>
                 </Method>
                 <sentences>
                     <offense>5years no parole 100 plants or 100 kilos</offense>
                     <offense-1>10years no parole 1000 plants or 1000 kilos</offense-1>
                 </sentences>
                     <Other_terms>
-                        <terms-1>Blunt</terms-1>
-                        <terms-2>Dope</terms-2>
-                        <terms-3>Ganja</terms-3>
-                        <terms-4>Grass</terms-4>
-                        <terms-5>Herb</terms-5>
-                        <terms-6>Joint</terms-6>
-                        <terms-7>Smoke</terms-7>
-                        <terms-8>Weed</terms-8>
-                        <terms-9>Mary Jane</terms-9>
+                    <terms-1>Blunt</terms-1>
+                    <terms-2>Dope</terms-2>
+                    <terms-3>Ganja</terms-3>
+                    <terms-4>Grass</terms-4>
+                    <terms-5>Herb</terms-5>
+                    <terms-6>Joint</terms-6>
+                    <terms-7>Smoke</terms-7>
+                    <terms-8>Weed</terms-8>
+                    <terms-9>Mary Jane</terms-9>
                     </Other_terms>
-                    <Effects>
-                        <Effects-1>high</Effects-1>
-                        <Effects-2>mood</Effects-2>
-                        <Effects-3>body movements</Effects-3>
-                        <Effects-4>thinking</Effects-4>
-                        <Effects-5>memory</Effects-5>
-                    </Effects>
+                <Effects>
+                    <Effects-1>high</Effects-1>
+                    <Effects-2>mood</Effects-2>
+                    <Effects-3>body movements</Effects-3>
+                    <Effects-4>thinking</Effects-4>
+                    <Effects-5>memory</Effects-5>
+                </Effects>
     </Drugs>
 
     <Drugs name = "LSD(Lysergic asid diethylamide)">
         <Drugs_type>hallucinogenic</Drugs_type>
             <Definiton>An LSD high is referred to as a “trip.” Anyone who’s done it will tell you that it takes your mind on a wild ride, though not always a good one.</Definiton>
-                    <Method>
-                        <Method-1>Tabs</Method-1>
-                        <Method-2>Doses</Method-2>
-                        <Method-3>Drops</Method-3>
-                    </Method>
-                    <sentences>
-                        <offense>5years no parole 1 gram</offense>
-                        <offense-1>10years no parole 10 gram</offense-1>
-                    </sentences>
-                    <Other_terms>
-                        <terms-1>Acid</terms-1>
-                        <terms-2>Blotter</terms-2>
-                        <terms-3>Doses</terms-3>
-                        <terms-4>Dots</terms-4>
-                        <terms-5>Trips</terms-5>
-                        <terms-6>Mellow Yellow</terms-6>
-                        <terms-7>Window</terms-7>
-                        <terms-8>Pane</terms-8>
-                    </Other_terms>
-                    <Effects>
-                        <Effects-1>dilated pupils</Effects-1>
-                        <Effects-2>rapid heartbeat</Effects-2>
-                        <Effects-3>palpitations</Effects-3>
-                        <Effects-4>elevated blood pressure</Effects-4>
-                        <Effects-5>increased body temperature</Effects-5>
-                        <Effects-6>anxiety and panic</Effects-6>
-                        <Effects-7>mood swings</Effects-7>
-                        <Effects-8>paranoia and delusions</Effects-8>
-                        <Effects-9>feelings of euphoria</Effects-9>
-                    </Effects>
+                <Method>
+                    <Method-1>Tabs</Method-1>
+                    <Method-2>Doses</Method-2>
+                    <Method-3>Drops</Method-3>
+                </Method>
+                <sentences>
+                    <offense>5years no parole 1 gram</offense>
+                    <offense-1>10years no parole 10 gram</offense-1>
+                </sentences>
+                <Other_terms>
+                    <terms-1>Acid</terms-1>
+                    <terms-2>Blotter</terms-2>
+                    <terms-3>Doses</terms-3>
+                    <terms-4>Dots</terms-4>
+                    <terms-5>Trips</terms-5>
+                    <terms-6>Mellow Yellow</terms-6>
+                    <terms-7>Window</terms-7>
+                    <terms-8>Pane</terms-8>
+                </Other_terms>
+                <Effects>
+                    <Effects-1>dilated pupils</Effects-1>
+                    <Effects-2>rapid heartbeat</Effects-2>
+                    <Effects-3>palpitations</Effects-3>
+                    <Effects-4>elevated blood pressure</Effects-4>
+                    <Effects-5>increased body temperature</Effects-5>
+                    <Effects-6>anxiety and panic</Effects-6>
+                    <Effects-7>mood swings</Effects-7>
+                    <Effects-8>paranoia and delusions</Effects-8>
+                    <Effects-9>feelings of euphoria</Effects-9>
+                </Effects>
     </Drugs>
 
     <Drugs name = "Cocaine">
         <Drugs_type>stimulant</Drugs_type>
             <Definiton>This drug comes in different forms. A user can snort the powder type through their nose or inject it into their bloodstream.</Definiton>
-                    <Method>
-                        <Method-1>smoking</Method-1>
-                        <Method-2>injection</Method-2>
-                        <Method-3>snorting</Method-3>
-                        <Method-4>rubbing </Method-4>
-
-                    </Method>
-                    <sentences>
-                        <offense>5years no parole 5 grams</offense>
-                        <offense-1>10years no parole 50 grams</offense-1>
-                    </sentences>
-                    <Other_terms>
-                        <terms-1>Blow</terms-1>
-                        <terms-2>Bump</terms-2>
-                        <terms-3>Coke</terms-3>
-                        <terms-4>Crack</terms-4>
-                        <terms-5>Flake</terms-5>
-                        <terms-6>Rock</terms-6>
-                    </Other_terms>
-                    <Effects>
-                        <Effects-1>Death</Effects-1>
-                        <Effects-2>Stroke</Effects-2>
-                        <Effects-3>High blood pressure</Effects-3>
-                        <Effects-4>Stomach pain, nausea</Effects-4>
-                        <Effects-5>Increased heart rate</Effects-5>
-                        <Effects-6>Increased body temperature</Effects-6>
-                        <Effects-7>Loss of smell and nosebleeds</Effects-7>
-                        <Effects-8>Loss of appetite, malnourishment</Effects-8>
-                        <Effects-9>Higher risk of HIV and hepatitis C due to sharing needles or other drug equipment</Effects-9>
-                    </Effects>
+                <Method>
+                    <Method-1>smoking</Method-1>
+                    <Method-2>injection</Method-2>
+                    <Method-3>snorting</Method-3>
+                    <Method-4>rubbing </Method-4>
+                </Method>
+                <sentences>
+                    <offense>5years no parole 5 grams</offense>
+                    <offense-1>10years no parole 50 grams</offense-1>
+                </sentences>
+                <Other_terms>
+                    <terms-1>Blow</terms-1>
+                    <terms-2>Bump</terms-2>
+                    <terms-3>Coke</terms-3>
+                    <terms-4>Crack</terms-4>
+                    <terms-5>Flake</terms-5>
+                    <terms-6>Rock</terms-6>
+                </Other_terms>
+                <Effects>
+                    <Effects-1>Death</Effects-1>
+                    <Effects-2>Stroke</Effects-2>
+                    <Effects-3>High blood pressure</Effects-3>
+                    <Effects-4>Stomach pain, nausea</Effects-4>
+                    <Effects-5>Increased heart rate</Effects-5>
+                    <Effects-6>Increased body temperature</Effects-6>
+                    <Effects-7>Loss of smell and nosebleeds</Effects-7>
+                    <Effects-8>Loss of appetite, malnourishment</Effects-8>
+                    <Effects-9>Higher risk of HIV and hepatitis C due to sharing needles or other drug equipment</Effects-9>
+                </Effects>
     </Drugs>
 </Illegal_Drugs>
